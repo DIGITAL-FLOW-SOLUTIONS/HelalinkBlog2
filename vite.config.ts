@@ -4,6 +4,8 @@ import path from "path";
 import runtimeErrorOverlay from "@replit/vite-plugin-runtime-error-modal";
 
 export default defineConfig({
+  root: path.resolve(import.meta.dirname, "client"), // ✅ tell Vite the real app root
+  base: "/",                               // ✅ works fine for Vercel
   plugins: [
     react(),
     runtimeErrorOverlay(),
