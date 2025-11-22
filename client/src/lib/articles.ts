@@ -50,7 +50,7 @@ export const articlesData: Article[] = [
       
       <p class="text-lg font-semibold text-primary">Official Launch: 13th September 2025 @ 2PM E.A.T</p>
     `,
-    featuredImage: "attached_assets/poster0_1763745124267.jpg",
+    featuredImage: "https://www.helalink.top/attached_assets/poster0_1763745124267.jpg",
     category: "HelaLink",
     country: "kenya",
     activationFee: "KSH 550",
@@ -58,9 +58,9 @@ export const articlesData: Article[] = [
     publishedAt: "2025-01-20",
     metaDescription: "Join HELALINK Kenya and earn up to KSH 2000+ daily. Multiple earning opportunities through surveys, videos, games, casino, and affiliate programs. Activation fee only KSH 550 with KSH 300 welcome bonus!",
     posters: [
-      "attached_assets/poster7_1763745124262.jpg",
-      "attached_assets/poster6_1763745124266.jpg",
-      "attached_assets/poster0_1763745124267.jpg",
+      "https://www.helalink.top/attached_assets/poster7_1763745124262.jpg",
+      "https://www.helalink.top/attached_assets/poster6_1763745124266.jpg",
+      "https://www.helalink.top/attached_assets/poster0_1763745124267.jpg",
     ],
   },
   {
@@ -110,7 +110,7 @@ export const articlesData: Article[] = [
       
       <p class="text-lg font-semibold text-primary">Official Launch: 13th September 2025 @ 2PM E.A.T</p>
     `,
-    featuredImage: "attached_assets/poster1_1763745124263.jpg",
+    featuredImage: "https://www.helalink.top/attached_assets/poster1_1763745124263.jpg",
     category: "HelaLink",
     country: "uganda",
     activationFee: "UGX 19500",
@@ -118,9 +118,9 @@ export const articlesData: Article[] = [
     publishedAt: "2025-01-19",
     metaDescription: "HELALINK Uganda - Earn up to UGX 40,000 daily online. UGX 8500 welcome bonus. Multiple earning methods: surveys, videos, games, trivia quiz, and affiliate program. Start today!",
     posters: [
-      "attached_assets/poster1_1763745124263.jpg",
-      "attached_assets/poster2_1763745124264.jpg",
-      "attached_assets/poster3_1763745124264.jpg",
+      "https://www.helalink.top/attached_assets/poster1_1763745124263.jpg",
+      "https://www.helalink.top/attached_assets/poster2_1763745124264.jpg",
+      "https://www.helalink.top/attached_assets/poster3_1763745124264.jpg",
     ],
   },
   {
@@ -181,7 +181,7 @@ export const articlesData: Article[] = [
       
       <p class="text-lg font-semibold text-primary">Uzinduzi Rasmi: Tarehe 13/09/2025 SAA 2PM</p>
     `,
-    featuredImage: "attached_assets/poster4_1763745112391.jpg",
+    featuredImage: "https://www.helalink.top/attached_assets/poster4_1763745112391.jpg",
     category: "HelaLink",
     country: "tanzania",
     activationFee: "TSH 12000",
@@ -189,9 +189,9 @@ export const articlesData: Article[] = [
     publishedAt: "2025-01-18",
     metaDescription: "HELALINK Tanzania - Tengeneza pesa online hadi TSH 40,000 kila siku. Activation fee TSH 12000, pata TSH 3000 welcome bonus. Surveys, videos, games na zaidi!",
     posters: [
-      "attached_assets/poster4_1763745112391.jpg",
-      "attached_assets/poster4_1763745124265.jpg",
-      "attached_assets/poster5_1763745124265.jpg",
+      "https://www.helalink.top/attached_assets/poster4_1763745112391.jpg",
+      "https://www.helalink.top/attached_assets/poster4_1763745124265.jpg",
+      "https://www.helalink.top/attached_assets/poster5_1763745124265.jpg",
     ],
   },
   {
@@ -262,7 +262,7 @@ export const articlesData: Article[] = [
       
       <p class="text-lg font-semibold text-primary">Download the HELALINK app now and start earning immediately!</p>
     `,
-    featuredImage: "attached_assets/poster1_1763745124263.jpg",
+    featuredImage: "https://www.helalink.top/attached_assets/poster1_1763745124263.jpg",
     category: "Mobile App",
     country: "general",
     activationFee: "",
@@ -270,9 +270,9 @@ export const articlesData: Article[] = [
     publishedAt: "2025-01-17",
     metaDescription: "Download HELALINK mobile app for iOS and Android. Complete guide to installation, features, and getting started with mobile earning.",
     posters: [
-      "attached_assets/poster0_1763745124267.jpg",
-      "attached_assets/poster1_1763745124263.jpg",
-      "attached_assets/poster2_1763745124264.jpg",
+      "https://www.helalink.top/attached_assets/poster0_1763745124267.jpg",
+      "https://www.helalink.top/attached_assets/poster1_1763745124263.jpg",
+      "https://www.helalink.top/attached_assets/poster2_1763745124264.jpg",
     ],
   },
   {
@@ -339,7 +339,7 @@ export const articlesData: Article[] = [
       
       <p class="text-lg font-semibold text-primary">Start small, verify claims yourself, and earn at your own pace!</p>
     `,
-    featuredImage: "attached_assets/poster6_1763745124266.jpg",
+    featuredImage: "https://www.helalink.top/attached_assets/poster6_1763745124266.jpg",
     category: "Safety Review",
     country: "general",
     activationFee: "",
@@ -347,9 +347,9 @@ export const articlesData: Article[] = [
     publishedAt: "2025-01-16",
     metaDescription: "Is HELALINK legit or a scam? Complete review of legitimacy, security, user experiences, and payment verification.",
     posters: [
-      "attached_assets/poster3_1763745124264.jpg",
-      "attached_assets/poster5_1763745124265.jpg",
-      "attached_assets/poster7_1763745124262.jpg",
+      "https://www.helalink.top/attached_assets/poster3_1763745124264.jpg",
+      "https://www.helalink.top/attached_assets/poster5_1763745124265.jpg",
+      "https://www.helalink.top/attached_assets/poster7_1763745124262.jpg",
     ],
   },
   {
@@ -457,7 +457,7 @@ export const articlesData: Article[] = [
       <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">Your Success Starts Here!</h2>
       <p class="text-lg font-semibold text-primary">Congratulations! You're now ready to start your HELALINK earning journey. Welcome to the community!</p>
     `,
-    featuredImage: "attached_assets/poster2_1763745124264.jpg",
+    featuredImage: "https://www.helalink.top/attached_assets/poster2_1763745124264.jpg",
     category: "Getting Started",
     country: "general",
     activationFee: "",
@@ -465,9 +465,9 @@ export const articlesData: Article[] = [
     publishedAt: "2025-01-15",
     metaDescription: "Complete step-by-step guide to joining HELALINK. Learn registration process, account setup, activation fee payment, and profile completion.",
     posters: [
-      "attached_assets/poster0_1763745124267.jpg",
-      "attached_assets/poster4_1763745112391.jpg",
-      "attached_assets/poster6_1763745124266.jpg",
+      "https://www.helalink.top/attached_assets/poster0_1763745124267.jpg",
+      "https://www.helalink.top/attached_assets/poster4_1763745112391.jpg",
+      "https://www.helalink.top/attached_assets/poster6_1763745124266.jpg",
     ],
   },
   {
@@ -596,7 +596,7 @@ export const articlesData: Article[] = [
       <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">Your Success Formula</h2>
       <p class="text-lg font-semibold text-primary">Perfect Profile (100%) + Quality Tasks (Surveys) + Referral Network (20+) + Consistent Effort (2-3hrs/day) = KSH 30,000-100,000+ Monthly Income</p>
     `,
-    featuredImage: "attached_assets/poster3_1763745124264.jpg",
+    featuredImage: "https://www.helalink.top/attached_assets/poster3_1763745124264.jpg",
     category: "Tips & Strategies",
     country: "general",
     activationFee: "",
@@ -604,9 +604,9 @@ export const articlesData: Article[] = [
     publishedAt: "2025-01-14",
     metaDescription: "HELALINK earning strategies and pro tips. Learn how to maximize daily income through surveys, referrals, and optimization techniques.",
     posters: [
-      "attached_assets/poster2_1763745124264.jpg",
-      "attached_assets/poster5_1763745124265.jpg",
-      "attached_assets/poster7_1763745124262.jpg",
+      "https://www.helalink.top/attached_assets/poster2_1763745124264.jpg",
+      "https://www.helalink.top/attached_assets/poster5_1763745124265.jpg",
+      "https://www.helalink.top/attached_assets/poster7_1763745124262.jpg",
     ],
   },
   {
@@ -740,7 +740,7 @@ export const articlesData: Article[] = [
       <h2 class="text-2xl font-bold mt-8 mb-4 text-primary">Remember</h2>
       <p class="text-lg font-semibold text-primary">Build real relationships, provide genuine value, and help others succeed. The money follows naturally. Your referrals' success = Your passive income.</p>
     `,
-    featuredImage: "attached_assets/poster4_1763745124265.jpg",
+    featuredImage: "https://www.helalink.top/attached_assets/poster4_1763745124265.jpg",
     category: "Affiliate Income",
     country: "general",
     activationFee: "",
@@ -748,9 +748,9 @@ export const articlesData: Article[] = [
     publishedAt: "2025-01-13",
     metaDescription: "HELALINK affiliate program guide. Learn commission structure, referral strategies, and how to build passive income from referrals.",
     posters: [
-      "attached_assets/poster1_1763745124263.jpg",
-      "attached_assets/poster4_1763745112391.jpg",
-      "attached_assets/poster6_1763745124266.jpg",
+      "https://www.helalink.top/attached_assets/poster1_1763745124263.jpg",
+      "https://www.helalink.top/attached_assets/poster4_1763745112391.jpg",
+      "https://www.helalink.top/attached_assets/poster6_1763745124266.jpg",
     ],
   },
   {
@@ -847,7 +847,7 @@ export const articlesData: Article[] = [
       
       <p class="text-lg font-semibold text-primary">Your success story could be next. Will you be the next person we feature? Join thousands of successful HELALINK earners today!</p>
     `,
-    featuredImage: "attached_assets/poster5_1763745124265.jpg",
+    featuredImage: "https://www.helalink.top/attached_assets/poster5_1763745124265.jpg",
     category: "Success Stories",
     country: "general",
     activationFee: "",
@@ -855,9 +855,9 @@ export const articlesData: Article[] = [
     publishedAt: "2025-01-11",
     metaDescription: "Real success stories from HELALINK users. Discover how ordinary people earned thousands monthly with proven strategies.",
     posters: [
-      "attached_assets/poster1_1763745124263.jpg",
-      "attached_assets/poster3_1763745124264.jpg",
-      "attached_assets/poster4_1763745124265.jpg",
+      "https://www.helalink.top/attached_assets/poster1_1763745124263.jpg",
+      "https://www.helalink.top/attached_assets/poster3_1763745124264.jpg",
+      "https://www.helalink.top/attached_assets/poster4_1763745124265.jpg",
     ],
   },
   {
@@ -1014,7 +1014,7 @@ export const articlesData: Article[] = [
       
       <p class="text-lg font-semibold text-primary">Your earnings are yours to keep! Withdraw safely and confidently with HELALINK.</p>
     `,
-    featuredImage: "attached_assets/poster4_1763745112391.jpg",
+    featuredImage: "https://www.helalink.top/attached_assets/poster4_1763745112391.jpg",
     category: "Payments",
     country: "general",
     activationFee: "",
@@ -1022,9 +1022,9 @@ export const articlesData: Article[] = [
     publishedAt: "2025-01-10",
     metaDescription: "Complete guide to withdrawing HELALINK earnings. Payment methods, processing times, minimum amounts, and troubleshooting.",
     posters: [
-      "attached_assets/poster3_1763745124264.jpg",
-      "attached_assets/poster6_1763745124266.jpg",
-      "attached_assets/poster2_1763745124264.jpg",
+      "https://www.helalink.top/attached_assets/poster3_1763745124264.jpg",
+      "https://www.helalink.top/attached_assets/poster6_1763745124266.jpg",
+      "https://www.helalink.top/attached_assets/poster2_1763745124264.jpg",
     ],
   },
   {
@@ -1167,7 +1167,7 @@ export const articlesData: Article[] = [
       
       <p class="text-lg font-semibold text-primary">Start earning today and join thousands of successful HELALINK users!</p>
     `,
-    featuredImage: "attached_assets/poster7_1763745124262.jpg",
+    featuredImage: "https://www.helalink.top/attached_assets/poster7_1763745124262.jpg",
     category: "FAQ",
     country: "general",
     activationFee: "",
@@ -1175,9 +1175,9 @@ export const articlesData: Article[] = [
     publishedAt: "2025-01-09",
     metaDescription: "HELALINK FAQ - Answers to common questions about earning, payments, withdrawals, referrals, security, and more.",
     posters: [
-      "attached_assets/poster0_1763745124267.jpg",
-      "attached_assets/poster5_1763745124265.jpg",
-      "attached_assets/poster7_1763745124262.jpg",
+      "https://www.helalink.top/attached_assets/poster0_1763745124267.jpg",
+      "https://www.helalink.top/attached_assets/poster5_1763745124265.jpg",
+      "https://www.helalink.top/attached_assets/poster7_1763745124262.jpg",
     ],
   },
 ];
