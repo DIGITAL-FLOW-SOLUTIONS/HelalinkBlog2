@@ -1,0 +1,11 @@
+.git
+.gitignore
+README.md
+.env.local
+.env.*.local
+node_modules
+.next
+.vercel
+.replit
+replit.upm.json
+design_guidelines.md

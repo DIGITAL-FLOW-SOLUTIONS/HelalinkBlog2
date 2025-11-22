@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:mobile="http://www.mobile.googlebot.com/schemas/mobile/1.0/">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://helalink-blog.replit.dev/</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Kenya Article -->
+  <url>
+    <loc>https://helalink-blog.replit.dev/article/helalink-kenya-earn-online</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://helalink-blog.replit.dev/attached_assets/poster0_1763745124267.jpg</image:loc>
+      <image:title>HELALINK Kenya Earning Platform</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Uganda Article -->
+  <url>
+    <loc>https://helalink-blog.replit.dev/article/helalink-uganda-make-money-online</loc>
+    <lastmod>2025-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://helalink-blog.replit.dev/attached_assets/poster1_1763745124263.jpg</image:loc>
+      <image:title>HELALINK Uganda Earning Opportunities</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Tanzania Article -->
+  <url>
+    <loc>https://helalink-blog.replit.dev/article/helalink-tanzania-online-earning-platform</loc>
+    <lastmod>2025-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://helalink-blog.replit.dev/attached_assets/poster4_1763745112391.jpg</image:loc>
+      <image:title>HELALINK Tanzania Online Earning</image:title>
+    </image:image>
+  </url>
+  
+  <!-- Mobile App Article -->
+  <url>
+    <loc>https://helalink-blog.replit.dev/article/helalink-app-download-and-features</loc>
+    <lastmod>2025-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Legitimacy Article -->
+  <url>
+    <loc>https://helalink-blog.replit.dev/article/is-helalink-legit-or-scam</loc>
+    <lastmod>2025-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Getting Started Guide -->
+  <url>
+    <loc>https://helalink-blog.replit.dev/article/step-by-step-guide-join-helalink</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Common Mistakes Article -->
+  <url>
+    <loc>https://helalink-blog.replit.dev/article/common-mistakes-helalink-how-to-avoid</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Maximizing Earnings Article -->
+  <url>
+    <loc>https://helalink-blog.replit.dev/article/maximizing-helalink-earnings-pro-tips</loc>
+    <lastmod>2025-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Affiliate Program Article -->
+  <url>
+    <loc>https://helalink-blog.replit.dev/article/helalink-affiliate-program-passive-income</loc>
+    <lastmod>2025-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Success Stories Article -->
+  <url>
+    <loc>https://helalink-blog.replit.dev/article/helalink-success-stories-real-users</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Withdrawals Guide -->
+  <url>
+    <loc>https://helalink-blog.replit.dev/article/helalink-withdrawals-get-money-fast</loc>
+    <lastmod>2025-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- FAQ Article -->
+  <url>
+    <loc>https://helalink-blog.replit.dev/article/helalink-faq-questions-answered</loc>
+    <lastmod>2025-01-09</lastmod>
+    <changefreq>bi-weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+</urlset>
